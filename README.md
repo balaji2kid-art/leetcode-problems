@@ -28,4 +28,16 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1323-maximum-69-number](https://github.com/balaji2kid-art/leetcode-problems/tree/main/1323-maximum-69-number/) | Easy |
+## Two Pointers
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0392-is-subsequence](https://github.com/balaji2kid-art/leetcode-problems/tree/main/0392-is-subsequence/) | Easy |
+## String
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0392-is-subsequence](https://github.com/balaji2kid-art/leetcode-problems/tree/main/0392-is-subsequence/) | Easy |
+## Dynamic Programming
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0392-is-subsequence](https://github.com/balaji2kid-art/leetcode-problems/tree/main/0392-is-subsequence/) | Easy |
 <!---LeetCode Topics End-->
