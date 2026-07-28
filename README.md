@@ -19,8 +19,13 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0231-power-of-two](https://github.com/balaji2kid-art/leetcode-problems/tree/main/0231-power-of-two/) | Easy |
+| [1323-maximum-69-number](https://github.com/balaji2kid-art/leetcode-problems/tree/main/1323-maximum-69-number/) | Easy |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0231-power-of-two](https://github.com/balaji2kid-art/leetcode-problems/tree/main/0231-power-of-two/) | Easy |
+## Greedy
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1323-maximum-69-number](https://github.com/balaji2kid-art/leetcode-problems/tree/main/1323-maximum-69-number/) | Easy |
 <!---LeetCode Topics End-->
