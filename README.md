@@ -20,6 +20,7 @@
 | ------- | ------- |
 | [0001-two-sum](https://github.com/balaji2kid-art/leetcode-problems/tree/main/0001-two-sum/) | Easy |
 | [0219-contains-duplicate-ii](https://github.com/balaji2kid-art/leetcode-problems/tree/main/0219-contains-duplicate-ii/) | Easy |
+| [0290-word-pattern](https://github.com/balaji2kid-art/leetcode-problems/tree/main/0290-word-pattern/) | Easy |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -44,6 +45,7 @@
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0290-word-pattern](https://github.com/balaji2kid-art/leetcode-problems/tree/main/0290-word-pattern/) | Easy |
 | [0392-is-subsequence](https://github.com/balaji2kid-art/leetcode-problems/tree/main/0392-is-subsequence/) | Easy |
 | [0709-to-lower-case](https://github.com/balaji2kid-art/leetcode-problems/tree/main/0709-to-lower-case/) | Easy |
 ## Dynamic Programming
