@@ -40,12 +40,14 @@
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0344-reverse-string](https://github.com/balaji2kid-art/leetcode-problems/tree/main/0344-reverse-string/) | Easy |
 | [0392-is-subsequence](https://github.com/balaji2kid-art/leetcode-problems/tree/main/0392-is-subsequence/) | Easy |
 | [0905-sort-array-by-parity](https://github.com/balaji2kid-art/leetcode-problems/tree/main/0905-sort-array-by-parity/) | Easy |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0290-word-pattern](https://github.com/balaji2kid-art/leetcode-problems/tree/main/0290-word-pattern/) | Easy |
+| [0344-reverse-string](https://github.com/balaji2kid-art/leetcode-problems/tree/main/0344-reverse-string/) | Easy |
 | [0392-is-subsequence](https://github.com/balaji2kid-art/leetcode-problems/tree/main/0392-is-subsequence/) | Easy |
 | [0709-to-lower-case](https://github.com/balaji2kid-art/leetcode-problems/tree/main/0709-to-lower-case/) | Easy |
 ## Dynamic Programming
