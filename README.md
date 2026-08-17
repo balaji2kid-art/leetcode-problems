@@ -11,6 +11,7 @@
 | [0137-single-number-ii](https://github.com/balaji2kid-art/leetcode-problems/tree/main/0137-single-number-ii/) | Medium |
 | [0152-maximum-product-subarray](https://github.com/balaji2kid-art/leetcode-problems/tree/main/0152-maximum-product-subarray/) | Medium |
 | [0219-contains-duplicate-ii](https://github.com/balaji2kid-art/leetcode-problems/tree/main/0219-contains-duplicate-ii/) | Easy |
+| [0300-longest-increasing-subsequence](https://github.com/balaji2kid-art/leetcode-problems/tree/main/0300-longest-increasing-subsequence/) | Medium |
 | [0812-largest-triangle-area](https://github.com/balaji2kid-art/leetcode-problems/tree/main/0812-largest-triangle-area/) | Easy |
 | [0905-sort-array-by-parity](https://github.com/balaji2kid-art/leetcode-problems/tree/main/0905-sort-array-by-parity/) | Easy |
 | [0976-largest-perimeter-triangle](https://github.com/balaji2kid-art/leetcode-problems/tree/main/0976-largest-perimeter-triangle/) | Easy |
@@ -68,6 +69,7 @@
 | [0053-maximum-subarray](https://github.com/balaji2kid-art/leetcode-problems/tree/main/0053-maximum-subarray/) | Medium |
 | [0062-unique-paths](https://github.com/balaji2kid-art/leetcode-problems/tree/main/0062-unique-paths/) | Medium |
 | [0152-maximum-product-subarray](https://github.com/balaji2kid-art/leetcode-problems/tree/main/0152-maximum-product-subarray/) | Medium |
+| [0300-longest-increasing-subsequence](https://github.com/balaji2kid-art/leetcode-problems/tree/main/0300-longest-increasing-subsequence/) | Medium |
 | [0392-is-subsequence](https://github.com/balaji2kid-art/leetcode-problems/tree/main/0392-is-subsequence/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
@@ -119,4 +121,12 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0089-gray-code](https://github.com/balaji2kid-art/leetcode-problems/tree/main/0089-gray-code/) | Medium |
+## Binary Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0300-longest-increasing-subsequence](https://github.com/balaji2kid-art/leetcode-problems/tree/main/0300-longest-increasing-subsequence/) | Medium |
+## Longest Increasing Subsequence
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0300-longest-increasing-subsequence](https://github.com/balaji2kid-art/leetcode-problems/tree/main/0300-longest-increasing-subsequence/) | Medium |
 <!---LeetCode Topics End-->
