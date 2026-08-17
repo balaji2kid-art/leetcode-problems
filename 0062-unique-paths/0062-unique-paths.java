@@ -2,8 +2,6 @@ class Solution {
     public int uniquePaths(int m, int n) {
 
         int total = m + n - 2;
-
-        // choose smaller value for efficient calculation
         int r = Math.min(m - 1, n - 1);
 
         long ans = 1;
