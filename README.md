@@ -7,6 +7,7 @@
 | [0001-two-sum](https://github.com/balaji2kid-art/leetcode-problems/tree/main/0001-two-sum/) | Easy |
 | [0053-maximum-subarray](https://github.com/balaji2kid-art/leetcode-problems/tree/main/0053-maximum-subarray/) | Medium |
 | [0054-spiral-matrix](https://github.com/balaji2kid-art/leetcode-problems/tree/main/0054-spiral-matrix/) | Medium |
+| [0056-merge-intervals](https://github.com/balaji2kid-art/leetcode-problems/tree/main/0056-merge-intervals/) | Medium |
 | [0137-single-number-ii](https://github.com/balaji2kid-art/leetcode-problems/tree/main/0137-single-number-ii/) | Medium |
 | [0219-contains-duplicate-ii](https://github.com/balaji2kid-art/leetcode-problems/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [0812-largest-triangle-area](https://github.com/balaji2kid-art/leetcode-problems/tree/main/0812-largest-triangle-area/) | Easy |
@@ -65,6 +66,7 @@
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0056-merge-intervals](https://github.com/balaji2kid-art/leetcode-problems/tree/main/0056-merge-intervals/) | Medium |
 | [0905-sort-array-by-parity](https://github.com/balaji2kid-art/leetcode-problems/tree/main/0905-sort-array-by-parity/) | Easy |
 | [0976-largest-perimeter-triangle](https://github.com/balaji2kid-art/leetcode-problems/tree/main/0976-largest-perimeter-triangle/) | Easy |
 ## Sliding Window
@@ -99,4 +101,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0054-spiral-matrix](https://github.com/balaji2kid-art/leetcode-problems/tree/main/0054-spiral-matrix/) | Medium |
+## Quicksort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0056-merge-intervals](https://github.com/balaji2kid-art/leetcode-problems/tree/main/0056-merge-intervals/) | Medium |
 <!---LeetCode Topics End-->
