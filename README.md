@@ -27,6 +27,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0231-power-of-two](https://github.com/balaji2kid-art/leetcode-problems/tree/main/0231-power-of-two/) | Easy |
+| [0504-base-7](https://github.com/balaji2kid-art/leetcode-problems/tree/main/0504-base-7/) | Easy |
 | [0507-perfect-number](https://github.com/balaji2kid-art/leetcode-problems/tree/main/0507-perfect-number/) | Easy |
 | [0812-largest-triangle-area](https://github.com/balaji2kid-art/leetcode-problems/tree/main/0812-largest-triangle-area/) | Easy |
 | [0976-largest-perimeter-triangle](https://github.com/balaji2kid-art/leetcode-problems/tree/main/0976-largest-perimeter-triangle/) | Easy |
@@ -53,6 +54,7 @@
 | [0290-word-pattern](https://github.com/balaji2kid-art/leetcode-problems/tree/main/0290-word-pattern/) | Easy |
 | [0344-reverse-string](https://github.com/balaji2kid-art/leetcode-problems/tree/main/0344-reverse-string/) | Easy |
 | [0392-is-subsequence](https://github.com/balaji2kid-art/leetcode-problems/tree/main/0392-is-subsequence/) | Easy |
+| [0504-base-7](https://github.com/balaji2kid-art/leetcode-problems/tree/main/0504-base-7/) | Easy |
 | [0709-to-lower-case](https://github.com/balaji2kid-art/leetcode-problems/tree/main/0709-to-lower-case/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
