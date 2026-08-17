@@ -19,6 +19,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/balaji2kid-art/leetcode-problems/tree/main/0001-two-sum/) | Easy |
+| [0208-implement-trie-prefix-tree](https://github.com/balaji2kid-art/leetcode-problems/tree/main/0208-implement-trie-prefix-tree/) | Medium |
 | [0219-contains-duplicate-ii](https://github.com/balaji2kid-art/leetcode-problems/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [0290-word-pattern](https://github.com/balaji2kid-art/leetcode-problems/tree/main/0290-word-pattern/) | Easy |
 ## Math
@@ -46,6 +47,7 @@
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0208-implement-trie-prefix-tree](https://github.com/balaji2kid-art/leetcode-problems/tree/main/0208-implement-trie-prefix-tree/) | Medium |
 | [0290-word-pattern](https://github.com/balaji2kid-art/leetcode-problems/tree/main/0290-word-pattern/) | Easy |
 | [0344-reverse-string](https://github.com/balaji2kid-art/leetcode-problems/tree/main/0344-reverse-string/) | Easy |
 | [0392-is-subsequence](https://github.com/balaji2kid-art/leetcode-problems/tree/main/0392-is-subsequence/) | Easy |
@@ -68,4 +70,12 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0053-maximum-subarray](https://github.com/balaji2kid-art/leetcode-problems/tree/main/0053-maximum-subarray/) | Medium |
+## Design
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0208-implement-trie-prefix-tree](https://github.com/balaji2kid-art/leetcode-problems/tree/main/0208-implement-trie-prefix-tree/) | Medium |
+## Trie
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0208-implement-trie-prefix-tree](https://github.com/balaji2kid-art/leetcode-problems/tree/main/0208-implement-trie-prefix-tree/) | Medium |
 <!---LeetCode Topics End-->
