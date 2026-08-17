@@ -28,6 +28,7 @@
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0062-unique-paths](https://github.com/balaji2kid-art/leetcode-problems/tree/main/0062-unique-paths/) | Medium |
 | [0231-power-of-two](https://github.com/balaji2kid-art/leetcode-problems/tree/main/0231-power-of-two/) | Easy |
 | [0504-base-7](https://github.com/balaji2kid-art/leetcode-problems/tree/main/0504-base-7/) | Easy |
 | [0507-perfect-number](https://github.com/balaji2kid-art/leetcode-problems/tree/main/0507-perfect-number/) | Easy |
@@ -62,6 +63,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0053-maximum-subarray](https://github.com/balaji2kid-art/leetcode-problems/tree/main/0053-maximum-subarray/) | Medium |
+| [0062-unique-paths](https://github.com/balaji2kid-art/leetcode-problems/tree/main/0062-unique-paths/) | Medium |
 | [0392-is-subsequence](https://github.com/balaji2kid-art/leetcode-problems/tree/main/0392-is-subsequence/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
@@ -105,4 +107,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0056-merge-intervals](https://github.com/balaji2kid-art/leetcode-problems/tree/main/0056-merge-intervals/) | Medium |
+## Combinatorics
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0062-unique-paths](https://github.com/balaji2kid-art/leetcode-problems/tree/main/0062-unique-paths/) | Medium |
 <!---LeetCode Topics End-->
