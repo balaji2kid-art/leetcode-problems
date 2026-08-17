@@ -6,6 +6,7 @@
 | ------- | ------- |
 | [0001-two-sum](https://github.com/balaji2kid-art/leetcode-problems/tree/main/0001-two-sum/) | Easy |
 | [0053-maximum-subarray](https://github.com/balaji2kid-art/leetcode-problems/tree/main/0053-maximum-subarray/) | Medium |
+| [0054-spiral-matrix](https://github.com/balaji2kid-art/leetcode-problems/tree/main/0054-spiral-matrix/) | Medium |
 | [0137-single-number-ii](https://github.com/balaji2kid-art/leetcode-problems/tree/main/0137-single-number-ii/) | Medium |
 | [0219-contains-duplicate-ii](https://github.com/balaji2kid-art/leetcode-problems/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [0812-largest-triangle-area](https://github.com/balaji2kid-art/leetcode-problems/tree/main/0812-largest-triangle-area/) | Easy |
@@ -90,4 +91,12 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0812-largest-triangle-area](https://github.com/balaji2kid-art/leetcode-problems/tree/main/0812-largest-triangle-area/) | Easy |
+## Matrix
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0054-spiral-matrix](https://github.com/balaji2kid-art/leetcode-problems/tree/main/0054-spiral-matrix/) | Medium |
+## Simulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0054-spiral-matrix](https://github.com/balaji2kid-art/leetcode-problems/tree/main/0054-spiral-matrix/) | Medium |
 <!---LeetCode Topics End-->
