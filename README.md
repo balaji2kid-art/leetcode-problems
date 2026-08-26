@@ -10,6 +10,7 @@
 | [0056-merge-intervals](https://github.com/balaji2kid-art/leetcode-problems/tree/main/0056-merge-intervals/) | Medium |
 | [0137-single-number-ii](https://github.com/balaji2kid-art/leetcode-problems/tree/main/0137-single-number-ii/) | Medium |
 | [0152-maximum-product-subarray](https://github.com/balaji2kid-art/leetcode-problems/tree/main/0152-maximum-product-subarray/) | Medium |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/balaji2kid-art/leetcode-problems/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0219-contains-duplicate-ii](https://github.com/balaji2kid-art/leetcode-problems/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [0300-longest-increasing-subsequence](https://github.com/balaji2kid-art/leetcode-problems/tree/main/0300-longest-increasing-subsequence/) | Medium |
 | [0812-largest-triangle-area](https://github.com/balaji2kid-art/leetcode-problems/tree/main/0812-largest-triangle-area/) | Easy |
@@ -126,6 +127,7 @@
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/balaji2kid-art/leetcode-problems/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0300-longest-increasing-subsequence](https://github.com/balaji2kid-art/leetcode-problems/tree/main/0300-longest-increasing-subsequence/) | Medium |
 ## Longest Increasing Subsequence
 | Problem Name | Difficulty |
