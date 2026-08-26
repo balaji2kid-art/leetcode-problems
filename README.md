@@ -64,6 +64,7 @@
 | [0392-is-subsequence](https://github.com/balaji2kid-art/leetcode-problems/tree/main/0392-is-subsequence/) | Easy |
 | [0504-base-7](https://github.com/balaji2kid-art/leetcode-problems/tree/main/0504-base-7/) | Easy |
 | [0709-to-lower-case](https://github.com/balaji2kid-art/leetcode-problems/tree/main/0709-to-lower-case/) | Easy |
+| [1108-defanging-an-ip-address](https://github.com/balaji2kid-art/leetcode-problems/tree/main/1108-defanging-an-ip-address/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
