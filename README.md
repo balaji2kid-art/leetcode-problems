@@ -25,6 +25,7 @@
 | [0231-power-of-two](https://github.com/balaji2kid-art/leetcode-problems/tree/main/0231-power-of-two/) | Easy |
 | [0342-power-of-four](https://github.com/balaji2kid-art/leetcode-problems/tree/main/0342-power-of-four/) | Easy |
 | [0401-binary-watch](https://github.com/balaji2kid-art/leetcode-problems/tree/main/0401-binary-watch/) | Easy |
+| [0693-binary-number-with-alternating-bits](https://github.com/balaji2kid-art/leetcode-problems/tree/main/0693-binary-number-with-alternating-bits/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
