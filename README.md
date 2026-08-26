@@ -37,6 +37,7 @@
 | [0062-unique-paths](https://github.com/balaji2kid-art/leetcode-problems/tree/main/0062-unique-paths/) | Medium |
 | [0089-gray-code](https://github.com/balaji2kid-art/leetcode-problems/tree/main/0089-gray-code/) | Medium |
 | [0231-power-of-two](https://github.com/balaji2kid-art/leetcode-problems/tree/main/0231-power-of-two/) | Easy |
+| [0292-nim-game](https://github.com/balaji2kid-art/leetcode-problems/tree/main/0292-nim-game/) | Easy |
 | [0504-base-7](https://github.com/balaji2kid-art/leetcode-problems/tree/main/0504-base-7/) | Easy |
 | [0507-perfect-number](https://github.com/balaji2kid-art/leetcode-problems/tree/main/0507-perfect-number/) | Easy |
 | [0812-largest-triangle-area](https://github.com/balaji2kid-art/leetcode-problems/tree/main/0812-largest-triangle-area/) | Easy |
@@ -135,4 +136,24 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0300-longest-increasing-subsequence](https://github.com/balaji2kid-art/leetcode-problems/tree/main/0300-longest-increasing-subsequence/) | Medium |
+## Brainteaser
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0292-nim-game](https://github.com/balaji2kid-art/leetcode-problems/tree/main/0292-nim-game/) | Easy |
+## Minimax
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0292-nim-game](https://github.com/balaji2kid-art/leetcode-problems/tree/main/0292-nim-game/) | Easy |
+## Game Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0292-nim-game](https://github.com/balaji2kid-art/leetcode-problems/tree/main/0292-nim-game/) | Easy |
+## Nim Game
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0292-nim-game](https://github.com/balaji2kid-art/leetcode-problems/tree/main/0292-nim-game/) | Easy |
+## Impartial Game
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0292-nim-game](https://github.com/balaji2kid-art/leetcode-problems/tree/main/0292-nim-game/) | Easy |
 <!---LeetCode Topics End-->
