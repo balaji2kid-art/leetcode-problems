@@ -43,6 +43,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0062-unique-paths](https://github.com/balaji2kid-art/leetcode-problems/tree/main/0062-unique-paths/) | Medium |
+| [0069-sqrtx](https://github.com/balaji2kid-art/leetcode-problems/tree/main/0069-sqrtx/) | Easy |
 | [0089-gray-code](https://github.com/balaji2kid-art/leetcode-problems/tree/main/0089-gray-code/) | Medium |
 | [0231-power-of-two](https://github.com/balaji2kid-art/leetcode-problems/tree/main/0231-power-of-two/) | Easy |
 | [0292-nim-game](https://github.com/balaji2kid-art/leetcode-problems/tree/main/0292-nim-game/) | Easy |
@@ -147,6 +148,7 @@
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0069-sqrtx](https://github.com/balaji2kid-art/leetcode-problems/tree/main/0069-sqrtx/) | Easy |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/balaji2kid-art/leetcode-problems/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0300-longest-increasing-subsequence](https://github.com/balaji2kid-art/leetcode-problems/tree/main/0300-longest-increasing-subsequence/) | Medium |
 ## Longest Increasing Subsequence
@@ -173,4 +175,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0292-nim-game](https://github.com/balaji2kid-art/leetcode-problems/tree/main/0292-nim-game/) | Easy |
+## Newton's Method
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0069-sqrtx](https://github.com/balaji2kid-art/leetcode-problems/tree/main/0069-sqrtx/) | Easy |
 <!---LeetCode Topics End-->
