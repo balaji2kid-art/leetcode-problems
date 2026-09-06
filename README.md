@@ -19,6 +19,7 @@
 | [0976-largest-perimeter-triangle](https://github.com/balaji2kid-art/leetcode-problems/tree/main/0976-largest-perimeter-triangle/) | Easy |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/balaji2kid-art/leetcode-problems/tree/main/1431-kids-with-the-greatest-number-of-candies/) | Easy |
 | [1470-shuffle-the-array](https://github.com/balaji2kid-art/leetcode-problems/tree/main/1470-shuffle-the-array/) | Easy |
+| [1572-matrix-diagonal-sum](https://github.com/balaji2kid-art/leetcode-problems/tree/main/1572-matrix-diagonal-sum/) | Easy |
 | [1672-richest-customer-wealth](https://github.com/balaji2kid-art/leetcode-problems/tree/main/1672-richest-customer-wealth/) | Easy |
 ## Bit Manipulation
 | Problem Name | Difficulty |
@@ -123,6 +124,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0054-spiral-matrix](https://github.com/balaji2kid-art/leetcode-problems/tree/main/0054-spiral-matrix/) | Medium |
+| [1572-matrix-diagonal-sum](https://github.com/balaji2kid-art/leetcode-problems/tree/main/1572-matrix-diagonal-sum/) | Easy |
 | [1672-richest-customer-wealth](https://github.com/balaji2kid-art/leetcode-problems/tree/main/1672-richest-customer-wealth/) | Easy |
 ## Simulation
 | Problem Name | Difficulty |
