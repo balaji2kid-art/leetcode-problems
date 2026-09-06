@@ -63,6 +63,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0231-power-of-two](https://github.com/balaji2kid-art/leetcode-problems/tree/main/0231-power-of-two/) | Easy |
+| [0234-palindrome-linked-list](https://github.com/balaji2kid-art/leetcode-problems/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0342-power-of-four](https://github.com/balaji2kid-art/leetcode-problems/tree/main/0342-power-of-four/) | Easy |
 ## Greedy
 | Problem Name | Difficulty |
@@ -72,6 +73,7 @@
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0234-palindrome-linked-list](https://github.com/balaji2kid-art/leetcode-problems/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0344-reverse-string](https://github.com/balaji2kid-art/leetcode-problems/tree/main/0344-reverse-string/) | Easy |
 | [0392-is-subsequence](https://github.com/balaji2kid-art/leetcode-problems/tree/main/0392-is-subsequence/) | Easy |
 | [0832-flipping-an-image](https://github.com/balaji2kid-art/leetcode-problems/tree/main/0832-flipping-an-image/) | Easy |
@@ -188,4 +190,12 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0069-sqrtx](https://github.com/balaji2kid-art/leetcode-problems/tree/main/0069-sqrtx/) | Easy |
+## Linked List
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0234-palindrome-linked-list](https://github.com/balaji2kid-art/leetcode-problems/tree/main/0234-palindrome-linked-list/) | Easy |
+## Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0234-palindrome-linked-list](https://github.com/balaji2kid-art/leetcode-problems/tree/main/0234-palindrome-linked-list/) | Easy |
 <!---LeetCode Topics End-->
