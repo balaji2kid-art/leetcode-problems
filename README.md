@@ -45,6 +45,7 @@
 | [0062-unique-paths](https://github.com/balaji2kid-art/leetcode-problems/tree/main/0062-unique-paths/) | Medium |
 | [0069-sqrtx](https://github.com/balaji2kid-art/leetcode-problems/tree/main/0069-sqrtx/) | Easy |
 | [0089-gray-code](https://github.com/balaji2kid-art/leetcode-problems/tree/main/0089-gray-code/) | Medium |
+| [0171-excel-sheet-column-number](https://github.com/balaji2kid-art/leetcode-problems/tree/main/0171-excel-sheet-column-number/) | Easy |
 | [0231-power-of-two](https://github.com/balaji2kid-art/leetcode-problems/tree/main/0231-power-of-two/) | Easy |
 | [0292-nim-game](https://github.com/balaji2kid-art/leetcode-problems/tree/main/0292-nim-game/) | Easy |
 | [0342-power-of-four](https://github.com/balaji2kid-art/leetcode-problems/tree/main/0342-power-of-four/) | Easy |
@@ -74,6 +75,7 @@
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0171-excel-sheet-column-number](https://github.com/balaji2kid-art/leetcode-problems/tree/main/0171-excel-sheet-column-number/) | Easy |
 | [0208-implement-trie-prefix-tree](https://github.com/balaji2kid-art/leetcode-problems/tree/main/0208-implement-trie-prefix-tree/) | Medium |
 | [0290-word-pattern](https://github.com/balaji2kid-art/leetcode-problems/tree/main/0290-word-pattern/) | Easy |
 | [0344-reverse-string](https://github.com/balaji2kid-art/leetcode-problems/tree/main/0344-reverse-string/) | Easy |
