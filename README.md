@@ -208,10 +208,12 @@
 ## Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0543-diameter-of-binary-tree](https://github.com/balaji2kid-art/leetcode-problems/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [0617-merge-two-binary-trees](https://github.com/balaji2kid-art/leetcode-problems/tree/main/0617-merge-two-binary-trees/) | Easy |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0543-diameter-of-binary-tree](https://github.com/balaji2kid-art/leetcode-problems/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [0617-merge-two-binary-trees](https://github.com/balaji2kid-art/leetcode-problems/tree/main/0617-merge-two-binary-trees/) | Easy |
 ## Breadth-First Search
 | Problem Name | Difficulty |
@@ -220,9 +222,14 @@
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0543-diameter-of-binary-tree](https://github.com/balaji2kid-art/leetcode-problems/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [0617-merge-two-binary-trees](https://github.com/balaji2kid-art/leetcode-problems/tree/main/0617-merge-two-binary-trees/) | Easy |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/balaji2kid-art/leetcode-problems/tree/main/0632-smallest-range-covering-elements-from-k-lists/) | Hard |
+## DP on Trees
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0543-diameter-of-binary-tree](https://github.com/balaji2kid-art/leetcode-problems/tree/main/0543-diameter-of-binary-tree/) | Easy |
 <!---LeetCode Topics End-->
