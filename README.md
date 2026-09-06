@@ -50,6 +50,7 @@
 | [0171-excel-sheet-column-number](https://github.com/balaji2kid-art/leetcode-problems/tree/main/0171-excel-sheet-column-number/) | Easy |
 | [0231-power-of-two](https://github.com/balaji2kid-art/leetcode-problems/tree/main/0231-power-of-two/) | Easy |
 | [0292-nim-game](https://github.com/balaji2kid-art/leetcode-problems/tree/main/0292-nim-game/) | Easy |
+| [0319-bulb-switcher](https://github.com/balaji2kid-art/leetcode-problems/tree/main/0319-bulb-switcher/) | Medium |
 | [0342-power-of-four](https://github.com/balaji2kid-art/leetcode-problems/tree/main/0342-power-of-four/) | Easy |
 | [0441-arranging-coins](https://github.com/balaji2kid-art/leetcode-problems/tree/main/0441-arranging-coins/) | Easy |
 | [0504-base-7](https://github.com/balaji2kid-art/leetcode-problems/tree/main/0504-base-7/) | Easy |
@@ -170,6 +171,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0292-nim-game](https://github.com/balaji2kid-art/leetcode-problems/tree/main/0292-nim-game/) | Easy |
+| [0319-bulb-switcher](https://github.com/balaji2kid-art/leetcode-problems/tree/main/0319-bulb-switcher/) | Medium |
 ## Minimax
 | Problem Name | Difficulty |
 | ------- | ------- |
