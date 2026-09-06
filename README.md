@@ -29,6 +29,7 @@
 | [0342-power-of-four](https://github.com/balaji2kid-art/leetcode-problems/tree/main/0342-power-of-four/) | Easy |
 | [0401-binary-watch](https://github.com/balaji2kid-art/leetcode-problems/tree/main/0401-binary-watch/) | Easy |
 | [0693-binary-number-with-alternating-bits](https://github.com/balaji2kid-art/leetcode-problems/tree/main/0693-binary-number-with-alternating-bits/) | Easy |
+| [1486-xor-operation-in-an-array](https://github.com/balaji2kid-art/leetcode-problems/tree/main/1486-xor-operation-in-an-array/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -51,6 +52,7 @@
 | [0812-largest-triangle-area](https://github.com/balaji2kid-art/leetcode-problems/tree/main/0812-largest-triangle-area/) | Easy |
 | [0976-largest-perimeter-triangle](https://github.com/balaji2kid-art/leetcode-problems/tree/main/0976-largest-perimeter-triangle/) | Easy |
 | [1323-maximum-69-number](https://github.com/balaji2kid-art/leetcode-problems/tree/main/1323-maximum-69-number/) | Easy |
+| [1486-xor-operation-in-an-array](https://github.com/balaji2kid-art/leetcode-problems/tree/main/1486-xor-operation-in-an-array/) | Easy |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
