@@ -13,6 +13,7 @@
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/balaji2kid-art/leetcode-problems/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0219-contains-duplicate-ii](https://github.com/balaji2kid-art/leetcode-problems/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [0300-longest-increasing-subsequence](https://github.com/balaji2kid-art/leetcode-problems/tree/main/0300-longest-increasing-subsequence/) | Medium |
+| [0632-smallest-range-covering-elements-from-k-lists](https://github.com/balaji2kid-art/leetcode-problems/tree/main/0632-smallest-range-covering-elements-from-k-lists/) | Hard |
 | [0804-unique-morse-code-words](https://github.com/balaji2kid-art/leetcode-problems/tree/main/0804-unique-morse-code-words/) | Easy |
 | [0812-largest-triangle-area](https://github.com/balaji2kid-art/leetcode-problems/tree/main/0812-largest-triangle-area/) | Easy |
 | [0832-flipping-an-image](https://github.com/balaji2kid-art/leetcode-problems/tree/main/0832-flipping-an-image/) | Easy |
@@ -40,6 +41,7 @@
 | [0208-implement-trie-prefix-tree](https://github.com/balaji2kid-art/leetcode-problems/tree/main/0208-implement-trie-prefix-tree/) | Medium |
 | [0219-contains-duplicate-ii](https://github.com/balaji2kid-art/leetcode-problems/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [0290-word-pattern](https://github.com/balaji2kid-art/leetcode-problems/tree/main/0290-word-pattern/) | Easy |
+| [0632-smallest-range-covering-elements-from-k-lists](https://github.com/balaji2kid-art/leetcode-problems/tree/main/0632-smallest-range-covering-elements-from-k-lists/) | Hard |
 | [0804-unique-morse-code-words](https://github.com/balaji2kid-art/leetcode-problems/tree/main/0804-unique-morse-code-words/) | Easy |
 ## Math
 | Problem Name | Difficulty |
@@ -69,6 +71,7 @@
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0632-smallest-range-covering-elements-from-k-lists](https://github.com/balaji2kid-art/leetcode-problems/tree/main/0632-smallest-range-covering-elements-from-k-lists/) | Hard |
 | [0976-largest-perimeter-triangle](https://github.com/balaji2kid-art/leetcode-problems/tree/main/0976-largest-perimeter-triangle/) | Easy |
 | [1323-maximum-69-number](https://github.com/balaji2kid-art/leetcode-problems/tree/main/1323-maximum-69-number/) | Easy |
 ## Two Pointers
@@ -104,12 +107,14 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0056-merge-intervals](https://github.com/balaji2kid-art/leetcode-problems/tree/main/0056-merge-intervals/) | Medium |
+| [0632-smallest-range-covering-elements-from-k-lists](https://github.com/balaji2kid-art/leetcode-problems/tree/main/0632-smallest-range-covering-elements-from-k-lists/) | Hard |
 | [0905-sort-array-by-parity](https://github.com/balaji2kid-art/leetcode-problems/tree/main/0905-sort-array-by-parity/) | Easy |
 | [0976-largest-perimeter-triangle](https://github.com/balaji2kid-art/leetcode-problems/tree/main/0976-largest-perimeter-triangle/) | Easy |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0219-contains-duplicate-ii](https://github.com/balaji2kid-art/leetcode-problems/tree/main/0219-contains-duplicate-ii/) | Easy |
+| [0632-smallest-range-covering-elements-from-k-lists](https://github.com/balaji2kid-art/leetcode-problems/tree/main/0632-smallest-range-covering-elements-from-k-lists/) | Hard |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -216,4 +221,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0617-merge-two-binary-trees](https://github.com/balaji2kid-art/leetcode-problems/tree/main/0617-merge-two-binary-trees/) | Easy |
+## Heap (Priority Queue)
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0632-smallest-range-covering-elements-from-k-lists](https://github.com/balaji2kid-art/leetcode-problems/tree/main/0632-smallest-range-covering-elements-from-k-lists/) | Hard |
 <!---LeetCode Topics End-->
