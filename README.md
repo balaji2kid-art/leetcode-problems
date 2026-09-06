@@ -200,4 +200,20 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0234-palindrome-linked-list](https://github.com/balaji2kid-art/leetcode-problems/tree/main/0234-palindrome-linked-list/) | Easy |
+## Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0617-merge-two-binary-trees](https://github.com/balaji2kid-art/leetcode-problems/tree/main/0617-merge-two-binary-trees/) | Easy |
+## Depth-First Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0617-merge-two-binary-trees](https://github.com/balaji2kid-art/leetcode-problems/tree/main/0617-merge-two-binary-trees/) | Easy |
+## Breadth-First Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0617-merge-two-binary-trees](https://github.com/balaji2kid-art/leetcode-problems/tree/main/0617-merge-two-binary-trees/) | Easy |
+## Binary Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0617-merge-two-binary-trees](https://github.com/balaji2kid-art/leetcode-problems/tree/main/0617-merge-two-binary-trees/) | Easy |
 <!---LeetCode Topics End-->
