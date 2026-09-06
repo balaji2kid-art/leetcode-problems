@@ -49,6 +49,7 @@
 | [0231-power-of-two](https://github.com/balaji2kid-art/leetcode-problems/tree/main/0231-power-of-two/) | Easy |
 | [0292-nim-game](https://github.com/balaji2kid-art/leetcode-problems/tree/main/0292-nim-game/) | Easy |
 | [0342-power-of-four](https://github.com/balaji2kid-art/leetcode-problems/tree/main/0342-power-of-four/) | Easy |
+| [0441-arranging-coins](https://github.com/balaji2kid-art/leetcode-problems/tree/main/0441-arranging-coins/) | Easy |
 | [0504-base-7](https://github.com/balaji2kid-art/leetcode-problems/tree/main/0504-base-7/) | Easy |
 | [0507-perfect-number](https://github.com/balaji2kid-art/leetcode-problems/tree/main/0507-perfect-number/) | Easy |
 | [0728-self-dividing-numbers](https://github.com/balaji2kid-art/leetcode-problems/tree/main/0728-self-dividing-numbers/) | Easy |
@@ -153,6 +154,7 @@
 | [0069-sqrtx](https://github.com/balaji2kid-art/leetcode-problems/tree/main/0069-sqrtx/) | Easy |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/balaji2kid-art/leetcode-problems/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0300-longest-increasing-subsequence](https://github.com/balaji2kid-art/leetcode-problems/tree/main/0300-longest-increasing-subsequence/) | Medium |
+| [0441-arranging-coins](https://github.com/balaji2kid-art/leetcode-problems/tree/main/0441-arranging-coins/) | Easy |
 ## Longest Increasing Subsequence
 | Problem Name | Difficulty |
 | ------- | ------- |
