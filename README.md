@@ -15,6 +15,7 @@
 | [0300-longest-increasing-subsequence](https://github.com/balaji2kid-art/leetcode-problems/tree/main/0300-longest-increasing-subsequence/) | Medium |
 | [0804-unique-morse-code-words](https://github.com/balaji2kid-art/leetcode-problems/tree/main/0804-unique-morse-code-words/) | Easy |
 | [0812-largest-triangle-area](https://github.com/balaji2kid-art/leetcode-problems/tree/main/0812-largest-triangle-area/) | Easy |
+| [0832-flipping-an-image](https://github.com/balaji2kid-art/leetcode-problems/tree/main/0832-flipping-an-image/) | Easy |
 | [0905-sort-array-by-parity](https://github.com/balaji2kid-art/leetcode-problems/tree/main/0905-sort-array-by-parity/) | Easy |
 | [0976-largest-perimeter-triangle](https://github.com/balaji2kid-art/leetcode-problems/tree/main/0976-largest-perimeter-triangle/) | Easy |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/balaji2kid-art/leetcode-problems/tree/main/1431-kids-with-the-greatest-number-of-candies/) | Easy |
@@ -30,6 +31,7 @@
 | [0342-power-of-four](https://github.com/balaji2kid-art/leetcode-problems/tree/main/0342-power-of-four/) | Easy |
 | [0401-binary-watch](https://github.com/balaji2kid-art/leetcode-problems/tree/main/0401-binary-watch/) | Easy |
 | [0693-binary-number-with-alternating-bits](https://github.com/balaji2kid-art/leetcode-problems/tree/main/0693-binary-number-with-alternating-bits/) | Easy |
+| [0832-flipping-an-image](https://github.com/balaji2kid-art/leetcode-problems/tree/main/0832-flipping-an-image/) | Easy |
 | [1486-xor-operation-in-an-array](https://github.com/balaji2kid-art/leetcode-problems/tree/main/1486-xor-operation-in-an-array/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
@@ -72,6 +74,7 @@
 | ------- | ------- |
 | [0344-reverse-string](https://github.com/balaji2kid-art/leetcode-problems/tree/main/0344-reverse-string/) | Easy |
 | [0392-is-subsequence](https://github.com/balaji2kid-art/leetcode-problems/tree/main/0392-is-subsequence/) | Easy |
+| [0832-flipping-an-image](https://github.com/balaji2kid-art/leetcode-problems/tree/main/0832-flipping-an-image/) | Easy |
 | [0905-sort-array-by-parity](https://github.com/balaji2kid-art/leetcode-problems/tree/main/0905-sort-array-by-parity/) | Easy |
 ## String
 | Problem Name | Difficulty |
@@ -128,6 +131,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0054-spiral-matrix](https://github.com/balaji2kid-art/leetcode-problems/tree/main/0054-spiral-matrix/) | Medium |
+| [0832-flipping-an-image](https://github.com/balaji2kid-art/leetcode-problems/tree/main/0832-flipping-an-image/) | Easy |
 | [1572-matrix-diagonal-sum](https://github.com/balaji2kid-art/leetcode-problems/tree/main/1572-matrix-diagonal-sum/) | Easy |
 | [1672-richest-customer-wealth](https://github.com/balaji2kid-art/leetcode-problems/tree/main/1672-richest-customer-wealth/) | Easy |
 ## Simulation
@@ -135,6 +139,7 @@
 | ------- | ------- |
 | [0054-spiral-matrix](https://github.com/balaji2kid-art/leetcode-problems/tree/main/0054-spiral-matrix/) | Medium |
 | [0657-robot-return-to-origin](https://github.com/balaji2kid-art/leetcode-problems/tree/main/0657-robot-return-to-origin/) | Easy |
+| [0832-flipping-an-image](https://github.com/balaji2kid-art/leetcode-problems/tree/main/0832-flipping-an-image/) | Easy |
 ## Quicksort
 | Problem Name | Difficulty |
 | ------- | ------- |
